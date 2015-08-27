@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flickr_key">12f830b7f85a9c2857590d155b5ba55a</string>
+    <string name="flickr_secret">e3a2bc2cb152d227</string>
+</resources>
